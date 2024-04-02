@@ -1,0 +1,5 @@
+/__pycache__
+/Dataset
+/runs
+/dataset.pkl
+/resnet50_binary_classification_model.pth
