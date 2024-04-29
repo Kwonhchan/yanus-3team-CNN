@@ -4,3 +4,4 @@
 /dataset.pkl
 /resnet50_binary_classification_model.pth
 /selfmodel_binary_classification_model.pth
+/ViT_classification_model.pth
